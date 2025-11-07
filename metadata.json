@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Notas de Alunos",
+  "description": "Uma aplicação web simples e clean para gerenciar as notas dos alunos, calcular médias e determinar a situação de aprovação.",
+  "requestFramePermissions": []
+}
